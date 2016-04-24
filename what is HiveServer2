@@ -1,0 +1,3 @@
+# Hadoop
+HiveServer is a service interface, that enabled remote client to submit query to hive using a variety of 
+programming language and retieve results. HiverServer is built on hriftSever, Therefore it is also called  THriftServer.
